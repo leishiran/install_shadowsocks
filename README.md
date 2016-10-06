@@ -9,6 +9,6 @@
 + shadowsocks服务端默认配置如下：
 
       服务端口：8000
-+     连接代理服务密码：1234abcd
+    连接代理服务密码：1234abcd
 +    代理服务加密方法：rc4-md5
 + 安装后程序位于：/root/shadowsocks

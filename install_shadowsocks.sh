@@ -15,7 +15,7 @@ cat > ${WORK_SPACE}/config << EOF
     "server_port":8000,
     "local_address": "127.0.0.1",
     "local_port":1080,
-    "password":"1234qwer",
+    "password":"1234abcd",
     "timeout":300,
     "method":"rc4-md5"
 }
